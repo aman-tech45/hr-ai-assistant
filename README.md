@@ -6,7 +6,7 @@ An intelligent HR chatbot that answers employee queries using company policy doc
 
 ## 🚀 Live Demo
 
-🔗 *(Add your Streamlit link here after deployment)*
+🔗 *(https://hr-ai-assistant-ej2abkqrdvgwscfkjqr4dk.streamlit.app/)*
 
 ---
 
